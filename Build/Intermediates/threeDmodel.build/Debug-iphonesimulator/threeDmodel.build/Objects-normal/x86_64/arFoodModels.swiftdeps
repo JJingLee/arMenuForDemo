@@ -1,0 +1,308 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "arFoodModels"
+provides-nominal:
+- "11threeDmodel12arFoodModelsC"
+provides-member:
+- ["11threeDmodel12arFoodModelsC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+="
+- !private "=="
+- "AssignmentPrecedence"
+- "Int"
+- "NSObject"
+- "SCNNode"
+- "arFoodModels"
+- "arFoodObj"
+- "notificationsHandler"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "remove"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "remove"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "arFoodModels"]
+- !private ["s7CVarArgP", "arFoodObj"]
+- !private ["s7CVarArgP", "arOnPlaneFoods"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instance"]
+- !private ["s7CVarArgP", "nodeOrdering"]
+- !private ["s7CVarArgP", "notificationHandler"]
+- ["s7CVarArgP", "notificationsHandler"]
+- !private ["s7CVarArgP", "objId"]
+- !private ["s7CVarArgP", "postAddARFoodNotification"]
+- !private ["s7CVarArgP", "postRemoveARFoodNotification"]
+- !private ["s7CVarArgP", "remove"]
+- !private ["s7CVarArgP", "removeFromParentNode"]
+- ["s7CVarArgP", "shareInstance"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "arFoodModels"]
+- !private ["s28CustomDebugStringConvertibleP", "arFoodObj"]
+- !private ["s28CustomDebugStringConvertibleP", "arOnPlaneFoods"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instance"]
+- !private ["s28CustomDebugStringConvertibleP", "nodeOrdering"]
+- !private ["s28CustomDebugStringConvertibleP", "notificationHandler"]
+- ["s28CustomDebugStringConvertibleP", "notificationsHandler"]
+- !private ["s28CustomDebugStringConvertibleP", "objId"]
+- !private ["s28CustomDebugStringConvertibleP", "postAddARFoodNotification"]
+- !private ["s28CustomDebugStringConvertibleP", "postRemoveARFoodNotification"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "removeFromParentNode"]
+- ["s28CustomDebugStringConvertibleP", "shareInstance"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "arFoodModels"]
+- !private ["s23CustomStringConvertibleP", "arFoodObj"]
+- !private ["s23CustomStringConvertibleP", "arOnPlaneFoods"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instance"]
+- !private ["s23CustomStringConvertibleP", "nodeOrdering"]
+- !private ["s23CustomStringConvertibleP", "notificationHandler"]
+- ["s23CustomStringConvertibleP", "notificationsHandler"]
+- !private ["s23CustomStringConvertibleP", "objId"]
+- !private ["s23CustomStringConvertibleP", "postAddARFoodNotification"]
+- !private ["s23CustomStringConvertibleP", "postRemoveARFoodNotification"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "removeFromParentNode"]
+- ["s23CustomStringConvertibleP", "shareInstance"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "remove"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "remove"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "arFoodModels"]
+- !private ["s9EquatableP", "arFoodObj"]
+- !private ["s9EquatableP", "arOnPlaneFoods"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "instance"]
+- !private ["s9EquatableP", "nodeOrdering"]
+- !private ["s9EquatableP", "notificationHandler"]
+- ["s9EquatableP", "notificationsHandler"]
+- !private ["s9EquatableP", "objId"]
+- !private ["s9EquatableP", "postAddARFoodNotification"]
+- !private ["s9EquatableP", "postRemoveARFoodNotification"]
+- !private ["s9EquatableP", "removeFromParentNode"]
+- ["s9EquatableP", "shareInstance"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "arFoodModels"]
+- !private ["s8HashableP", "arFoodObj"]
+- !private ["s8HashableP", "arOnPlaneFoods"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "instance"]
+- !private ["s8HashableP", "nodeOrdering"]
+- !private ["s8HashableP", "notificationHandler"]
+- ["s8HashableP", "notificationsHandler"]
+- !private ["s8HashableP", "objId"]
+- !private ["s8HashableP", "postAddARFoodNotification"]
+- !private ["s8HashableP", "postRemoveARFoodNotification"]
+- !private ["s8HashableP", "removeFromParentNode"]
+- ["s8HashableP", "shareInstance"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "remove"]
+- !private ["So8NSCodingP", "removeFromParentNode"]
+- !private ["So9NSCopyingP", "removeFromParentNode"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "SCNNode"]
+- ["So8NSObjectC", "addFoodToArray"]
+- ["So8NSObjectC", "arFoodModels"]
+- ["So8NSObjectC", "arFoodObj"]
+- ["So8NSObjectC", "arOnPlaneFoods"]
+- ["So8NSObjectC", "getFoodObj"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "instance"]
+- !private ["So8NSObjectC", "nodeOrdering"]
+- ["So8NSObjectC", "notificationHandler"]
+- ["So8NSObjectC", "notificationsHandler"]
+- !private ["So8NSObjectC", "objId"]
+- !private ["So8NSObjectC", "postAddARFoodNotification"]
+- !private ["So8NSObjectC", "postRemoveARFoodNotification"]
+- ["So8NSObjectC", "removeFoodFromArray"]
+- !private ["So8NSObjectC", "removeFromParentNode"]
+- ["So8NSObjectC", "shareInstance"]
+- ["So8NSObjectC", ""]
+- !private ["So16NSObjectProtocolP", "arFoodModels"]
+- !private ["So16NSObjectProtocolP", "arFoodObj"]
+- !private ["So16NSObjectProtocolP", "arOnPlaneFoods"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "instance"]
+- !private ["So16NSObjectProtocolP", "nodeOrdering"]
+- !private ["So16NSObjectProtocolP", "notificationHandler"]
+- ["So16NSObjectProtocolP", "notificationsHandler"]
+- !private ["So16NSObjectProtocolP", "objId"]
+- !private ["So16NSObjectProtocolP", "postAddARFoodNotification"]
+- !private ["So16NSObjectProtocolP", "postRemoveARFoodNotification"]
+- !private ["So16NSObjectProtocolP", "removeFromParentNode"]
+- ["So16NSObjectProtocolP", "shareInstance"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "removeFromParentNode"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "remove"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "remove"]
+- !private ["So13SCNActionableP", "removeFromParentNode"]
+- !private ["So13SCNAnimatableP", "removeFromParentNode"]
+- !private ["So17SCNBoundingVolumeP", "removeFromParentNode"]
+- !private ["So7SCNNodeC", "removeFromParentNode"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "remove"]
+- !private ["So18UIFocusEnvironmentP", "removeFromParentNode"]
+- !private ["So11UIFocusItemP", "removeFromParentNode"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "remove"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "remove"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "remove"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "remove"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "remove"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arFoodModels"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arFoodObj"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "arOnPlaneFoods"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instance"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nodeOrdering"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "notificationHandler"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "notificationsHandler"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "objId"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "postAddARFoodNotification"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "postRemoveARFoodNotification"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeFromParentNode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "shareInstance"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "remove"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "remove"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "remove"]
+- ["11threeDmodel12arFoodModelsC", "Int"]
+- ["11threeDmodel12arFoodModelsC", "SCNNode"]
+- ["11threeDmodel12arFoodModelsC", "addFoodToArray"]
+- ["11threeDmodel12arFoodModelsC", "arFoodModels"]
+- ["11threeDmodel12arFoodModelsC", "arFoodObj"]
+- !private ["11threeDmodel12arFoodModelsC", "arOnPlaneFoods"]
+- ["11threeDmodel12arFoodModelsC", "deinit"]
+- ["11threeDmodel12arFoodModelsC", "getFoodObj"]
+- ["11threeDmodel12arFoodModelsC", "init"]
+- !private ["11threeDmodel12arFoodModelsC", "instance"]
+- !private ["11threeDmodel12arFoodModelsC", "notificationHandler"]
+- ["11threeDmodel12arFoodModelsC", "notificationsHandler"]
+- ["11threeDmodel12arFoodModelsC", "removeFoodFromArray"]
+- ["11threeDmodel12arFoodModelsC", "shareInstance"]
+- !private ["11threeDmodel9arFoodObjC", "init"]
+- !private ["11threeDmodel9arFoodObjC", "nodeOrdering"]
+- !private ["11threeDmodel9arFoodObjC", "objId"]
+- !private ["11threeDmodel20notificationsHandlerC", "postAddARFoodNotification"]
+- !private ["11threeDmodel20notificationsHandlerC", "postRemoveARFoodNotification"]
+- ["11threeDmodel20notificationsHandlerC", "shareInstance"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "So13SCNActionableP"
+- !private "So13SCNAnimatableP"
+- !private "So17SCNBoundingVolumeP"
+- !private "So7SCNNodeC"
+- !private "s8SequenceP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- "11threeDmodel12arFoodModelsC"
+- !private "11threeDmodel9arFoodObjC"
+- "11threeDmodel20notificationsHandlerC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ARKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SceneKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/GLKit.framework/Headers/GLKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/SceneKit.framework/Headers/SceneKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/SpriteKit.framework/Headers/SpriteKit.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "66415e77a1b6b35e12b14772a981afb7"

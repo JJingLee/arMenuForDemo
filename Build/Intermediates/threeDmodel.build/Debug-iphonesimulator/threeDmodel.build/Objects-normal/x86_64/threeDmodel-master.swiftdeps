@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.54.11 clang-900.0.31)"
+options: "c7b59c6785af06dbd045e25bdb495f65"
+build_time: [1502096380, 60735000]
+inputs:
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/datamodels/menuModels/menuObj.swift": [1502096358, 0]
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/datamodels/arFoodModels/arFoodObj.swift": [1502096358, 0]
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/ViewControllers/launchViewController.swift": [1501005931, 0]
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/datamodels/menuModels/menuModel.swift": [1502096371, 0]
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/ViewControllers/viewComponents/menuItemView.swift": [1500977085, 0]
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/ViewControllers/ARViewController.swift": [1502096358, 0]
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/AppDelegate.swift": [1500477799, 0]
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/datamodels/notificationsHandler.swift": [1502096379, 0]
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/datamodels/arFoodModels/arFoodModels.swift": [1502096371, 0]
+  "/Users/whplue07/Desktop/testing/threeDmodel/threeDmodel/ViewControllers/menuViewController.swift": [1501168806, 0]
